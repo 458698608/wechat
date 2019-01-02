@@ -1,5 +1,5 @@
 <?php
- 2 define("weixin", "此处填写你设置的token值");
+ 2 define("weixin", "weixin");
  3
  4 $wechatObj = new CallbackAPI;
  5 $wechatObj->valid();
